@@ -9,7 +9,6 @@ Welcome to the Kiosk Kreators Project repository! This repository contains all t
 - [Project Overview](#project-overview)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
   - [Code Style](#code-style)
   - [Submitting a Pull Request](#submitting-a-pull-request)
