@@ -2,7 +2,7 @@
 
 # WebDev Project Repository
 
-Welcome to the WebDev Project repository! This repository contains all the code and resources for our exciting web development project. Whether you're a team member, contributor, or just curious about what we're building, this README will provide you with all the information you need to get started, contribute, and understand our project.
+Welcome to the Kiosk Kreators Project repository! This repository contains all the code and resources for our project. Whether you're a team member, contributor, or just curious about what we're building, this README will provide you with all the information you need to get started, contribute, and understand our project.
 
 ## Table of Contents
 
@@ -16,27 +16,26 @@ Welcome to the WebDev Project repository! This repository contains all the code 
 
 ## Project Overview
 
-Describe your project in a brief but comprehensive manner. Include the project's main goals, features, and technologies used. You can also provide some context about why the project is being developed and who the target audience is.
+
 
 ## Getting Started
 
-Provide instructions for setting up the project locally. This should include information about prerequisites and installation steps.
+
 
 ### Prerequisites
 
-List any software, tools, libraries, or frameworks that need to be installed before setting up the project. Include versions if applicable.
+
 
 ## Usage
 
-Explain how to use your project once it's set up. Provide examples or guidelines that will help users and contributors understand the main functionalities.
+
 
 ## Contributing
 
-We welcome contributions from the community! Whether it's bug fixes, feature additions, or improvements to documentation, your contributions are valuable.
 
 ### Code Style
 
-Mention any coding conventions or guidelines contributors should follow. This could include details about indentation, naming conventions, comments, etc.
+
 
 ### Submitting a Pull Request
 
