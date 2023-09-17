@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="pageheader">
+    <h1> Insert Brand Here </h1>
+    <h2> Insert Time here</h2>
+  </div>
+  <div class="main-screen">
+    <div class="check-in">
+    <form action = "check-in.html" method = "GET">
+      <label for="fname">First name:</label>
+      <input type="text" id="fname" name="fname"><br><br>
+      <label for="pNum">Phone Number:</label>
+      <input type="number" id="pNum" name="pNum"><br><br>
+      <input type="submit" value="Next">
+    </div>
+    <div class="Wait List">
+      <h1>WAIT LIST</h1>
+      <ol class ="users">
+        <!-- this is going to have an ordered region in ionic that can scroll, i know that this is doable in JS, 
+          but Ionic will make it easier-->
+          <li class = "userlist">Patricia L.
+            <button>I'm Here</button>
+          </li>
+          <li class = "userlist">Patrick M..
+            <button>I'm Here</button>
+          </li class = "userlist">
+          <li class = "userlist">Paulo S..
+            <button>I'm Here</button>
+          </li>
+          <li class = "userlist">Priyanka A..
+            <button>I'm Here</button>
+          </li>
+      </ol>
+    </div>
+  </div>
+</body>
+</html>
